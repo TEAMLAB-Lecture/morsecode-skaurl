@@ -29,6 +29,28 @@
       <option name="presentableId" value="Default" />
       <updated>1611189623522</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework - morsecode">
+      <created>1611200500695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611200500696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework - morsecode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework - morsecode" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="9" y="37" key="CommitChangelistDialog2" timestamp="1611200500482">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="9" y="37" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1611200500482" />
+    <state x="32" y="201" key="Vcs.Push.Dialog.v2" timestamp="1611200517166">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="32" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1611200517166" />
   </component>
 </project>

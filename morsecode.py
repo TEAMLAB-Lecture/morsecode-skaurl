@@ -91,7 +91,7 @@ def is_validated_english_sentence(user_input):
     for i in list(".,!?"):
         # 문장부호(.,!?)를 제외
         user_input_tmp = user_input_tmp.replace(i,"")
-    if user_input_tmp == "":
+    if user_input_tmp == "" or set(user_input_tmp) == set(" "): # 틀린 부분
         # 문장부호(.,!?)를 제외하고 입력값이 없거나 빈칸만 입력했을 경우, False
         result = False
         return result
