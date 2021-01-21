@@ -131,7 +131,7 @@ def is_validated_morse_code(user_input):
     """
     # ===Modify codes below=============
     # 조건에 따라 변환되어야 할 결과를 result 변수에 할당 또는 필요에 따라 자유로운 수정
-    user_input_split = user_input.split(" ")
+    user_input_split = user_input.split()
     # user_input을 공백을 기준으로 분리
     morse_code = get_morse_code_dict().values()
     # 모스 부호를 불러오기
